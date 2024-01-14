@@ -8,7 +8,7 @@
 - Bridging ideas across different domains, teams, and industries
 
 ## 🚀 **Projects:**
-Explore my [portfolio(https://github.com/JayshreeMishra/JayshreeMishra-Portfolio)] to discover projects that showcase my hands-on experience and problem-solving skills.
+Explore my [portfolio](https://github.com/JayshreeMishra/JayshreeMishra-Portfolio)  to discover projects that showcase my hands-on experience and problem-solving skills.
 
 ## 🛠️ **Technical Skills:**
 - Proficient: Python (Scikit-learn, NumPy, SciPy, pandas)
