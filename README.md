@@ -53,4 +53,4 @@ A project showcasing the power of Seaborn for visualizing statistical relationsh
 ---
 
 ## 💡 Looking Ahead  
-I am eager to collaborate on innovative projects and explore opportunities in data science and AI. 
+I am eager to collaborate on innovative projects and explore opportunities in data science and ML. 
