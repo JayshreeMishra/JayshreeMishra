@@ -1,25 +1,56 @@
-# 👩‍💻 Welcome to My GitHub Profile! 👩‍💻
+# 👩‍💻 Welcome to My GitHub Profile! 👩‍💻  
 
-**Hi there! 👋 I'm Jayshree, an IBM Certified Professional Data Scientist with expertise in Data Science and Machine Learning using Python.**
+**Hi there! 👋 I'm Jayshree Mishra, an IBM Certified Data Scientist passionate about extracting insights from data and applying machine learning to solve problems.**  
 
-- Developing predictive models in data science and machine learning
-- Delivering highly accurate results in diverse projects
-- Improving efficiency via Python script implementation
-- Bridging ideas across different domains, teams, and industries
+🔹 **Data Science & Machine Learning Enthusiast**  
+🔹 **Proficient in Python, SQL, and Statistical Analysis**  
+🔹 **Exploring data-driven solutions through machine learning**  
 
-## 🚀 **Projects:**
-Explore my [portfolio](https://github.com/JayshreeMishra/JayshreeMishra-Portfolio)  to discover projects that showcase my hands-on experience and problem-solving skills.
+---
 
-## 🛠️ **Technical Skills:**
-- Proficient: Python (Scikit-learn, NumPy, SciPy, pandas)
-- Knowledgeable: SQL (MySQL, PgAdmin), Excel
-- Familiar: R (Programming Language)
+## 🚀 Featured Projects  
+Check out my [portfolio](https://github.com/JayshreeMishra/JayshreeMishra-Portfolio) for hands-on projects demonstrating my expertise in data science, machine learning, and automation.  
 
-## 🌐 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/jayshree-mishra-/)
+### 🔹 **Custom Email Classifier** (Ongoing)  
+A personalized email sender enhanced with machine learning features like spam classification, and spelling correction.  
+🔗 [GitHub Repository](https://github.com/JayshreeMishra/CustomEmail_A_Personalized_Email_Sender)  
 
-## 💡 **Looking Ahead:**
-As I embark on my journey in the data science field, I am excited about the prospect of contributing my skills and knowledge to meaningful projects.
+### 🔹 **Student Performance Prediction**  
+A machine learning model to predict student success based on academic and behavioral factors.  
+🔗 [GitHub Repository](https://github.com/JayshreeMishra/Student_Performance_Prediction)  
 
+### 🔹 **SpaceX Falcon 9 First Stage Landing Prediction**  
+A predictive model analyzing historical SpaceX launch data to determine the likelihood of successful first-stage landings.  
+🔗 [GitHub Repository](https://github.com/JayshreeMishra/Data_Science_Project_Portfolio/tree/main/Project%206-%20SpaceX%20Falcon%209%20first%20stage%20Landing%20Prediction-%20Data%20Science%20Capstone%20Project)  
 
+### 🔹 **Exploratory Data Analysis on Retail Data**  
+An in-depth EDA project uncovering insights and patterns in retail sales data using Python and visualization tools.  
+🔗 [GitHub Repository](https://github.com/JayshreeMishra/Data_Science_Project_Portfolio/tree/main/Project%207-%20Exploratory-Data-Analysis-on-Retail-Data)  
 
+### 🔹 **Statistical Data Visualization with Seaborn**  
+A project showcasing the power of Seaborn for visualizing statistical relationships in data.  
+🔗 [GitHub Repository](https://github.com/JayshreeMishra/Data_Science_Project_Portfolio/tree/main/Project%208-%20Statistical%20Data%20Visualization%20with%20Seaborn)  
+
+---
+
+## 🛠️ Technical Skills  
+**Programming & Data Handling:**  
+- Python (Pandas, NumPy, Scikit-learn, SciPy)  
+- SQL (MySQL)  
+- MongoDB  
+
+**Machine Learning & AI:**  
+- Supervised & Unsupervised Learning  
+- Data Preprocessing & Feature Engineering  
+- Model Deployment & Evaluation  
+ 
+ ---
+
+## 🌐 Connect with Me  
+📌 [LinkedIn](https://www.linkedin.com/in/jayshree-mishra-/)  
+📌 [GitHub](https://github.com/JayshreeMishra)  
+
+---
+
+## 💡 Looking Ahead  
+I am eager to collaborate on innovative projects and explore opportunities in data science and AI. 
